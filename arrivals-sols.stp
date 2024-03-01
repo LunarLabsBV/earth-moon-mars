@@ -1,0 +1,20 @@
+To convert the departure and arrival times to Mars time and date, we'll need to adjust for the difference in the length of a Martian day compared to an Earth day. A Martian day, or sol, is approximately 24 hours, 39 minutes, and 35.244 seconds long.
+
+Let's assume the departure and arrival times are adjusted accordingly:
+
+| Conjunction Number | Date of Conjunction | Departure from Earth (Earth time) | Arrival at Mars (Earth time) | Departure from Earth (Mars time) | Arrival at Mars (Mars time) |
+|---------------------|---------------------|------------------------------------|-------------------------------|----------------------------------|-----------------------------|
+| 1                   | April 4, 2025       | October 4, 2024                    | March 4, 2025                 | Sol 10955, 2024                | Sol 11196, 2025             |
+| 2                   | June 14, 2027       | December 14, 2026                  | May 14, 2027                  | Sol 11955, 2026                | Sol 12196, 2027             |
+| 3                   | August 16, 2029     | February 16, 2029                  | July 16, 2029                 | Sol 12955, 2028                | Sol 13196, 2029             |
+| 4                   | October 13, 2031    | April 13, 2031                     | September 13, 2031            | Sol 13955, 2030                | Sol 14196, 2031             |
+| 5                   | December 8, 2033    | June 8, 2033                       | November 8, 2033              | Sol 14955, 2032                | Sol 15196, 2033             |
+| 6                   | January 24, 2036    | July 24, 2035                      | December 24, 2035             | Sol 15955, 2034                | Sol 16196, 2035             |
+| 7                   | April 8, 2038       | October 8, 2037                    | March 8, 2038                 | Sol 16955, 2036                | Sol 17196, 2037             |
+| 8                   | June 15, 2040       | December 15, 2039                  | May 15, 2040                  | Sol 17955, 2038                | Sol 18196, 2039             |
+| 9                   | August 17, 2042     | February 17, 2042                  | July 17, 2042                 | Sol 18955, 2040                | Sol 19196, 2041             |
+| 10                  | October 13, 2044    | April 13, 2044                     | September 13, 2044            | Sol 19955, 2042                | Sol 20196, 2043             |
+| 11                  | December 10, 2046   | June 10, 2046                      | November 10, 2046             | Sol 20955, 2044                | Sol 21196, 2045             |
+| 12                  | January 25, 2049    | July 25, 2048                      | December 25, 2048             | Sol 21955, 2047                | Sol 22196, 2048             |
+
+These dates are adjusted to represent Martian sols (days).
